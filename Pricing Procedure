@@ -1,6 +1,10 @@
+
+
 Problem Statement: 
 The client requires the system to automatically apply a freight percentage of 3% for Purchase Orders (POs) created for the US and 2% for POs created for India. 
 
 
 
 Step 1 : Created Condition type ZMG7 
+
+![Screenshot 2024-10-01 182431](https://github.com/user-attachments/assets/bad7e239-bd67-4489-855c-27887e600032)
